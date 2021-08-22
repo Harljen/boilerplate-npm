@@ -1,6 +1,6 @@
 {
-	"author": "Harljen Hill",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Harljen Hill",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
